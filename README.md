@@ -18,3 +18,6 @@ Fig. Three states in MCMC algorithms
 
 
 
+**References:**
+[1]. Bertsekas, D., & Tsitsiklis, J. N. (2008). Introduction to probability (Vol. 1). Athena Scientific.
+
