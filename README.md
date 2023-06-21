@@ -14,7 +14,7 @@ Fig. Integral of a complex function using Monte Carlo Simulation
 
 ![image](https://github.com/deepanshuIITM/MCMC/assets/137225940/fcc6af4a-dbce-44a2-815a-9c017c9eb4a0)
 
-Fig. Three states in MCMC algorithms
+Fig. Three states in MCMC algorithms for non-defective manufacturing of bolt assembly
 
 
 
