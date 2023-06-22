@@ -1,5 +1,5 @@
 # MCMC
-## Monte Carlo Method
+## Markov Chain Monte Carlo Method
 
 ![MCMC](https://github.com/deepanshuIITM/MCMC/assets/137225940/a84593e3-6eb2-4a8f-8f0c-9b71473d6294)
 
