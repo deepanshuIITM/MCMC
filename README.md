@@ -9,6 +9,7 @@
 
 ![image](https://github.com/deepanshuIITM/MCMC/assets/137225940/0fc4d292-94f7-4292-a551-290e7920272e)
 
+**Variation of integral value for different Sample Size**
 
 ## Markov Chain Monte Carlo Method for identifying manufacturing defects
 
